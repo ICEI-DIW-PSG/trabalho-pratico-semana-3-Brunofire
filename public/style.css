@@ -39,6 +39,8 @@ nav{
     justify-content: space-between, 200px;
 }
 .login{text-align: end;
+    margin-bottom: 20px;
+    transform: translateY(-200px);
        
 
         }
@@ -51,4 +53,9 @@ nav{
     transform: translateY(-250px);
     justify-content: space-between;
     background-color: brown;
+}
+#titulo{
+    font-size: 50px;
+    display: flex;
+    text-align: start;
 }
