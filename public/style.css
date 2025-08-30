@@ -33,8 +33,12 @@ nav{
     grid: 200px;
     justify-content: space-between, 200px;
 }
-.login{grid-template-rows: 3,1fr;
-        align-items: end;
+.login{text-align: end;
+       
+
+        }
+        button{
+            align-items: center;
         }
 .artigo{
     text-align: justify;
