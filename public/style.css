@@ -3,12 +3,16 @@ body {
     margin: 0;
     padding:  20px;
 }
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 .logo{
     width: 300px;
     border-radius: 20px;
 }
 header{
     background-color: aqua;
+    
 
 }
 .rodape{
@@ -24,6 +28,7 @@ nav{
     background-color: blue;
     float: right;
     height: 200px;
+    position: relative;
 
 }
 .homepage{
@@ -36,9 +41,6 @@ nav{
 .login{text-align: end;
        
 
-        }
-        button{
-            align-items: center;
         }
 .artigo{
     text-align: justify;
