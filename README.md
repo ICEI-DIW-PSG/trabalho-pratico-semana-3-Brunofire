@@ -18,7 +18,7 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >> ![alt text](img/tela.png)
+<<  COLOQUE A IMAGEM AQUI >> ![alt text](tela.png)
 
 
 
