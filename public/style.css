@@ -3,3 +3,39 @@ body {
     margin: 0;
     padding:  20px;
 }
+.logo{
+    width: 300px;
+    border-radius: 20px;
+}
+header{
+    background-color: aqua;
+
+}
+.rodape{
+    background-color: brown;
+    
+}
+main{
+    
+    background-color: bisque;
+
+}
+nav{
+    background-color: blue;
+    float: right;
+    height: 200px;
+
+}
+.homepage{
+    align-content: center;
+    align-items: center;
+    align-items: center;
+    grid: 200px;
+    justify-content: space-between, 200px;
+}
+.login{grid-template-rows: 3,1fr;
+        align-items: end;
+        }
+.artigo{
+    text-align: justify;
+}
