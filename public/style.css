@@ -39,3 +39,10 @@ nav{
 .artigo{
     text-align: justify;
 }
+.barra_nav{
+    display: flex;
+    margin-left: 1200px;
+    transform: translateY(-250px);
+    justify-content: space-between;
+    background-color: brown;
+}
