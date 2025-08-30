@@ -10,15 +10,16 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome:Bruno Henrique Guedes
+- Matricula:898113
+- Proposta de projeto escolhida:tema conteudo
+- Breve descrição sobre seu projeto:Espero que eu consiga fazer uma home page sobre cultura grega relacionada a um livro infantil chamado percy jackson,quero mais para frente usar o iframe para colocar um video associado ao assunto
 
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
+<<  COLOQUE A IMAGEM AQUI >> ![alt text](img/tela.png)
+
 
 
 ## Print da home-page criada
