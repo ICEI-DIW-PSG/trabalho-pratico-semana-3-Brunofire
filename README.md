@@ -13,7 +13,7 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 - Nome:Bruno Henrique Guedes
 - Matricula:898113
 - Proposta de projeto escolhida:tema conteudo
-- Breve descrição sobre seu projeto:Espero que eu consiga fazer uma home page sobre cultura grega relacionada a um livro infantil chamado percy jackson,quero mais para frente usar o iframe para colocar um video associado ao assunto
+- Breve descrição sobre seu projeto:Espero que eu consiga fazer uma home page sobre cultura grega relacionada a um jogo de video game chamado God of War,quero mais para frente usar o iframe para colocar um video associado ao assunto
 
 
 ## Print do(s) wireframe(s) criado
@@ -25,4 +25,4 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 ## Print da home-page criada
 
 <<  COLOQUE A IMAGEM AQUI >>
-![alt text](<Captura de tela 2025-08-30 021008.png>)
+![alt text](image.png)
